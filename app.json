@@ -1,12 +1,23 @@
 {
   "pages":[
-    "pages/index/index",
-    "pages/logs/logs"
+     "pages/index/index",
+     "pages/category/category",
+     "pages/goods_list/goods_list",
+     "pages/goods_detail/goods_detail",
+     "pages/feedback/feedback",
+     "pages/user/user",
+     "pages/car/car",
+     "pages/collect/collect",
+     "pages/order/order",
+     "pages/search/search",
+     "pages/login/login",
+     "pages/auth/auth",
+     "pages/pay/pay"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "悦品优购",
     "navigationBarTextStyle":"black"
   },
   "style": "v2",
